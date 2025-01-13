@@ -2,7 +2,7 @@
 I am Vittorio, a Backend developer from Italy based in Germany.<br><br>
 - 🔭 I’m currently working on building and refining my personal projects.<br>
 - 👯 I’m looking to collaborate on Java-based backend development projects.<br>
-- 🤝 I’m looking for help with mastering advanced Spring features and system design.<br>-
+- 🤝 I’m looking for help with mastering advanced Spring features and system design.<br>
 - 🌱 I’m currently learning: Microservices architecture.<br>⚡ Fun fact: I have a background in medical radiology.
 
 
